@@ -26,8 +26,8 @@ Current development is done on Ubuntu 16.04
 5. Add ESR to xscreensaver
  1. vim ~/.xscreensaver and change:
 ```
+  GL:                           splitflap -root                             \n\
                                 testx11 -root                               \n\
-  GL:                           electricsheep -root 1                       \n\
 
 
 
